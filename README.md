@@ -1,6 +1,6 @@
 # Data Cleaning in MySQL
 
-## Purposes Of The Project
+## Purpose Of The Project
 
 The project aims to clean data using SQL Queries and perform Exploratory Data Analysis.
 
